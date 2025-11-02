@@ -1,5 +1,5 @@
 # Tria Contact List
-* **Live Demo:** `[YOUR DEPLOYED NETLIFY/VERCEL LINK HERE]`
+* **Live Demo:** `https://tria-frontend-23b0765.netlify.app/`
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## How to Run Locally
 
-1.  `git clone https://github.com/your-username/tria-contact-list.git`
+1.  `git clone https://github.com/Avishkar1312/Tria-frontend-intern-assignment`
 2.  `cd tria-contact-list`
 3.  `npm install`
 4.  `npm start`
